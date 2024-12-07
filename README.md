@@ -9,22 +9,22 @@
 
 # Setup Procedure
 
-    1. Create python Virtual Environment, using below command:
+- Create python Virtual Environment, using below command:
 
-            virtualenv <virtualenv_path or env_name>
+        virtualenv <virtualenv_path or env_name>
 
-    2. Move to virtual environment directory and activate virtual environment by moving to scripts folder and running "activate" in command prompt.
+- Move to virtual environment directory and activate virtual environment by moving to scripts folder and running "activate" in command prompt.
 
-    3. Now Pull the entire directory or download the zipfile of the project and move the entire project to directory where Scripts folder of virtual environment is present.
+- Now Pull the entire directory or download the zipfile of the project and move the entire project to directory where Scripts folder of virtual environment is present.
 
-    4. Now simply run the command, to install all the dependencies of project:
+- Now simply run the command, to install all the dependencies of project:
 
-            pip install -r requirements.txt
+        pip install -r requirements.txt
 
-    5. To run project, type the command:
+- To run project, type the command:
 
-            streamlit run main.py
+        streamlit run main.py
     
 
 ### Note:
-    All the instruction to use the app can be found in docx file also.
+    All the instruction to use the app can be found in "Drowsiness Detection System.docx" file also.
