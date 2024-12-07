@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+etc/
+Scripts/
+share/
+Lib/
+DDR.egg-info/
+*.cfg
+*.zip
+*.mp4
+*.jpg
